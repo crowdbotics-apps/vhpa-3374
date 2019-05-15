@@ -1,0 +1,3 @@
+rootProject.name = 'vhpa_3374'
+
+include ':app'

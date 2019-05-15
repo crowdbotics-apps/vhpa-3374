@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT vhpa_3374.wsgi:application
